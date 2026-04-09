@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst 📊 | Frontend Developer Enthusiast 💻<br>Turning data into insights and ideas into interactive experiences.
+Data Analyst 📊 | Frontend Developer  💻<br>Turning data into insights and ideas into interactive experiences.
 
 
 ## 🌐 Socials:
